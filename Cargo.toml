@@ -2,6 +2,10 @@
 name = "skullrump"
 version = "0.1.0"
 authors = ["lf94"]
+description = "Quickly write UNIX-like binary head and tail routines."
+repository = "https://github.com/lf94/skullrump"
+keywords = ["tail", "head", "unix"]
+license = "ISC"
 
 [dependencies]
 byteorder = "1.2.1"
