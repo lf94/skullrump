@@ -1,0 +1,7 @@
+[package]
+name = "skullrump"
+version = "0.1.0"
+authors = ["lf94"]
+
+[dependencies]
+byteorder = "1.2.1"
